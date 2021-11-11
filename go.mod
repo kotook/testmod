@@ -1,3 +1,3 @@
-module github.com/kotook/testmod.v2
+module github.com/kotook/testmod
 
 go 1.16
